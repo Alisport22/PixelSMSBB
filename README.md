@@ -21,6 +21,6 @@ python sms-bomber.py
 ```
 **----------------------------------------------**
 
-**My WebSite : www.pixelshop24.com**|
-**Owner : Mr ShadowByte**|
+**My WebSite : www.pixelshop24.com** |
+**Owner : Mr ShadowByte** |
 **----Happy Fun :D----**
