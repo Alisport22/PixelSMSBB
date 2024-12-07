@@ -9,7 +9,7 @@ pkg install git && pkg install python && pip install urllib3
 ```
 **Step 3 : Get Install Bomber Tool**
 ```
-git clone https://github.com/NiREvil/sms-bomber
+git clone https://github.com/MrShadowByte/PixelSMSBomberIR.git
 ```
 **Step 4 : Tool Directory**
 ```
